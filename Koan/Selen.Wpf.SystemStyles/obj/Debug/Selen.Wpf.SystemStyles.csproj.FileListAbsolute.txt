@@ -1,0 +1,89 @@
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.SystemStyles.dll
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.SystemStyles.pdb
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.Core.dll
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.Core.pdb
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.csprojResolveAssemblyReference.cache
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\ButtonStyles.baml
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\ComboBoxStyles.baml
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\DataGridStyles.baml
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\GroupBoxStyles.baml
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\ListBoxStyles.baml
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\MenuStyles.baml
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\ScrollBarStyles.baml
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\Styles.baml
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\TabControlStyles.baml
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\TextBoxStyles.baml
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\WindowStyles.baml
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles_MarkupCompile.cache
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.g.resources
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.Properties.Resources.resources
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.csproj.GenerateResource.Cache
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.dll
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.pdb
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.SystemStyles.dll
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.SystemStyles.pdb
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.csprojResolveAssemblyReference.cache
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Debug\ButtonStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Debug\ComboBoxStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Debug\PasswordBoxStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Debug\DataGridStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Debug\GroupBoxStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Debug\ListBoxStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Debug\MenuStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Debug\ScrollBarStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Debug\Styles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Debug\TabControlStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Debug\TextBoxStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Debug\WindowStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles_MarkupCompile.cache
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.g.resources
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.Properties.Resources.resources
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.csproj.GenerateResource.Cache
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.dll
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.pdb
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.SystemStyles.dll
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.SystemStyles.pdb
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.Core.dll
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.Core.pdb
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.csprojResolveAssemblyReference.cache
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\obj\Debug\ButtonStyles.baml
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\obj\Debug\ComboBoxStyles.baml
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\obj\Debug\PasswordBoxStyles.baml
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\obj\Debug\DataGridStyles.baml
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\obj\Debug\GroupBoxStyles.baml
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\obj\Debug\ListBoxStyles.baml
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\obj\Debug\MenuStyles.baml
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\obj\Debug\ScrollBarStyles.baml
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\obj\Debug\Styles.baml
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\obj\Debug\TabControlStyles.baml
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\obj\Debug\TextBoxStyles.baml
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\obj\Debug\WindowStyles.baml
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles_MarkupCompile.cache
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.g.resources
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.Properties.Resources.resources
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.csproj.GenerateResource.Cache
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.dll
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.pdb
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.SystemStyles.dll
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.SystemStyles.pdb
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.Core.dll
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\bin\Debug\Selen.Wpf.Core.pdb
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.csprojResolveAssemblyReference.cache
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Debug\ButtonStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Debug\ComboBoxStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Debug\PasswordBoxStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Debug\DataGridStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Debug\GroupBoxStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Debug\ListBoxStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Debug\MenuStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Debug\ScrollBarStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Debug\Styles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Debug\TabControlStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Debug\TextBoxStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Debug\WindowStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles_MarkupCompile.cache
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.g.resources
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.Properties.Resources.resources
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.csproj.GenerateResource.Cache
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.dll
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Debug\Selen.Wpf.SystemStyles.pdb

@@ -1,0 +1,84 @@
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\bin\Debug\Data\People.xml
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\bin\Debug\Data\Report.xml
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\bin\Debug\Data\Samples.xml
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\bin\Debug\Koan.exe.config
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\bin\Debug\Koan.exe.manifest
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\bin\Debug\Koan.application
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\bin\Debug\Koan.exe
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\bin\Debug\Koan.pdb
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\bin\Debug\MahApps.Metro.dll
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\bin\Debug\Selen.Wpf.Core.dll
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\bin\Debug\Selen.Wpf.SystemStyles.dll
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\bin\Debug\System.Windows.Interactivity.dll
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\bin\Debug\ZedGraph.dll
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\bin\Debug\Selen.Wpf.Core.pdb
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\bin\Debug\Selen.Wpf.SystemStyles.pdb
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\Koan.csprojResolveAssemblyReference.cache
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\ChartPanel.baml
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\SessionPanel.baml
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\UserLogin.baml
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\App.baml
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\ChartPanel.g.cs
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\DevicePanel.g.cs
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\MainWindow.g.cs
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\ReportPanel.g.cs
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\SessionPanel.g.cs
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\UserLogin.g.cs
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\App.g.cs
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\Koan_MarkupCompile.cache
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\Koan_MarkupCompile.lref
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\DevicePanel.baml
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\MainWindow.baml
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\ReportPanel.baml
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\Koan.g.resources
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\Koan.Properties.Resources.resources
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\Koan.CharPanel.resources
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\Koan.csproj.GenerateResource.Cache
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\Koan.TrustInfo.xml
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\Koan.exe.manifest
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\Koan.application
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\Koan.exe
+c:\users\raquel\documents\visual studio 2013\Projects\Koan\Koan\obj\Debug\Koan.pdb
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\bin\Debug\Koan.exe.config
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\Koan.exe
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\Koan.pdb
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\bin\Debug\Data\People.xml
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\bin\Debug\Data\Report.xml
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\bin\Debug\Data\Samples.xml
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\bin\Debug\Koan.exe.manifest
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\bin\Debug\Koan.application
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\bin\Debug\Koan.exe
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\bin\Debug\Koan.pdb
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\bin\Debug\MahApps.Metro.dll
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\bin\Debug\Selen.Wpf.Core.dll
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\bin\Debug\Selen.Wpf.SystemStyles.dll
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\bin\Debug\System.Windows.Interactivity.dll
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\bin\Debug\ZedGraph.dll
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\bin\Debug\Selen.Wpf.Core.pdb
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\bin\Debug\Selen.Wpf.SystemStyles.pdb
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\Koan.csprojResolveAssemblyReference.cache
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\ChartPanel.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\SessionPanel.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\UserLogin.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\App.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\ChartPanel.g.cs
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\DevicePanel.g.cs
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\MainWindow.g.cs
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\ReportPanel.g.cs
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\SessionPanel.g.cs
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\UserLogin.g.cs
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\App.g.cs
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\Koan_MarkupCompile.cache
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\Koan_MarkupCompile.lref
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\DevicePanel.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\MainWindow.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\ReportPanel.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\Koan.g.resources
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\Koan.Properties.Resources.resources
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\Koan.CharPanel.resources
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\Koan.csproj.GenerateResource.Cache
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\Koan.TrustInfo.xml
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\Koan.exe.manifest
+F:\BioSCADA\Koan\VisualStudio\Koan\Koan\obj\Debug\Koan.application

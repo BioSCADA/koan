@@ -1,0 +1,92 @@
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\bin\Release\Selen.Wpf.SystemStyles.dll
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\bin\Release\Selen.Wpf.SystemStyles.pdb
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\bin\Release\Selen.Wpf.Core.dll
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\bin\Release\Selen.Wpf.Core.pdb
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.csprojResolveAssemblyReference.cache
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\ButtonStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\ComboBoxStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\PasswordBoxStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\DataGridStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\GroupBoxStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\ListBoxStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\MenuStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\ScrollBarStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\Styles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\TabControlStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\TextBoxStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\WindowStyles.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles_MarkupCompile.cache
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.g.resources
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.Properties.Resources.resources
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.csproj.GenerateResource.Cache
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.dll
+I:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.pdb
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\bin\Release\Selen.Wpf.SystemStyles.dll
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\bin\Release\Selen.Wpf.SystemStyles.pdb
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\bin\Release\Selen.Wpf.Core.dll
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\bin\Release\Selen.Wpf.Core.pdb
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.csprojResolveAssemblyReference.cache
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\ButtonStyles.baml
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\ComboBoxStyles.baml
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\PasswordBoxStyles.baml
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\DataGridStyles.baml
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\GroupBoxStyles.baml
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\ListBoxStyles.baml
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\MenuStyles.baml
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\ScrollBarStyles.baml
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\Styles.baml
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\TabControlStyles.baml
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\TextBoxStyles.baml
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\WindowStyles.baml
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles_MarkupCompile.cache
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.g.resources
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.Properties.Resources.resources
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.csproj.GenerateResource.Cache
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.dll
+E:\visualstudio\BioSCADA\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.pdb
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\bin\Release\Selen.Wpf.SystemStyles.dll
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\bin\Release\Selen.Wpf.SystemStyles.pdb
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\bin\Release\Selen.Wpf.Core.dll
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\bin\Release\Selen.Wpf.Core.pdb
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.csprojResolveAssemblyReference.cache
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\obj\Release\ButtonStyles.baml
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\obj\Release\ComboBoxStyles.baml
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\obj\Release\PasswordBoxStyles.baml
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\obj\Release\DataGridStyles.baml
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\obj\Release\GroupBoxStyles.baml
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\obj\Release\ListBoxStyles.baml
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\obj\Release\MenuStyles.baml
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\obj\Release\ScrollBarStyles.baml
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\obj\Release\Styles.baml
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\obj\Release\TabControlStyles.baml
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\obj\Release\TextBoxStyles.baml
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\obj\Release\WindowStyles.baml
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles_MarkupCompile.cache
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.g.resources
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.Properties.Resources.resources
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.csproj.GenerateResource.Cache
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.dll
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.pdb
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\bin\Release\Selen.Wpf.SystemStyles.dll
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\bin\Release\Selen.Wpf.SystemStyles.pdb
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\bin\Release\Selen.Wpf.Core.dll
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\bin\Release\Selen.Wpf.Core.pdb
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.csprojResolveAssemblyReference.cache
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\ButtonStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\ComboBoxStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\PasswordBoxStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\DataGridStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\GroupBoxStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\ListBoxStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\MenuStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\ScrollBarStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\Styles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\TabControlStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\TextBoxStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\WindowStyles.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles_MarkupCompile.cache
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.g.resources
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.Properties.Resources.resources
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.csproj.GenerateResource.Cache
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.dll
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\Selen.Wpf.SystemStyles.pdb

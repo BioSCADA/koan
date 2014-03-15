@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Samples>
+  <Sample>
+    <Login>726</Login>
+    <Timestamp>2014-03-12 21:37:28.500</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>800</RR>
+    <Coherence>0</Coherence>
+    <TAG />
+  </Sample>
+  <Sample>
+    <Login>726</Login>
+    <Timestamp>2014-03-12 21:37:29.510</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>807</RR>
+    <Coherence>0</Coherence>
+    <TAG />
+  </Sample>
+  <Sample>
+    <Login>726</Login>
+    <Timestamp>2014-03-12 21:37:30.529</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>812</RR>
+    <Coherence>0</Coherence>
+    <TAG />
+  </Sample>
+  <Sample>
+    <Login>726</Login>
+    <Timestamp>2014-03-12 21:37:31.571</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>815</RR>
+    <Coherence>0</Coherence>
+    <TAG />
+  </Sample>
+  <Sample>
+    <Login>726</Login>
+    <Timestamp>2014-03-12 21:37:32.649</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>812</RR>
+    <Coherence>0.01795759</Coherence>
+    <TAG />
+  </Sample>
+  <Sample>
+    <Login>726</Login>
+    <Timestamp>2014-03-12 21:37:33.820</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>807</RR>
+    <Coherence>0.02218509</Coherence>
+    <TAG />
+  </Sample>
+  <Sample>
+    <Login>726</Login>
+    <Timestamp>2014-03-12 21:37:34.994</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>800</RR>
+    <Coherence>0.02723486</Coherence>
+    <TAG />
+  </Sample>
+  <Sample>
+    <Login>726</Login>
+    <Timestamp>2014-03-12 21:37:36.509</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>792</RR>
+    <Coherence>0.03268532</Coherence>
+    <TAG />
+  </Sample>
+  <Sample>
+    <Login>726</Login>
+    <Timestamp>2014-03-12 21:37:37.636</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>787</RR>
+    <Coherence>0.03861745</Coherence>
+    <TAG />
+  </Sample>
+  <Sample>
+    <Login>726</Login>
+    <Timestamp>2014-03-12 21:37:38.648</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>785</RR>
+    <Coherence>0.04507429</Coherence>
+    <TAG />
+  </Sample>
+  <Sample>
+    <Login>726</Login>
+    <Timestamp>2014-03-12 21:37:39.701</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>787</RR>
+    <Coherence>0.05157422</Coherence>
+    <TAG />
+  </Sample>
+  <Sample>
+    <Login>726</Login>
+    <Timestamp>2014-03-12 21:37:40.807</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>792</RR>
+    <Coherence>0.05817844</Coherence>
+    <TAG />
+  </Sample>
+  <Sample>
+    <Login>726</Login>
+    <Timestamp>2014-03-12 21:37:41.913</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>800</RR>
+    <Coherence>0.0645925</Coherence>
+    <TAG />
+  </Sample>
+</Samples>

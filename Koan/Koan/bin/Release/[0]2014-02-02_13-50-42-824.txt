@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Samples>
+  <Sample>
+    <Login>0</Login>
+    <Timestamp>2014-02-02 13:50:43.077</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>800</RR>
+    <Coherence>0</Coherence>
+    <TAG />
+  </Sample>
+  <Sample>
+    <Login>0</Login>
+    <Timestamp>2014-02-02 13:50:44.077</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>807</RR>
+    <Coherence>0</Coherence>
+    <TAG />
+  </Sample>
+  <Sample>
+    <Login>0</Login>
+    <Timestamp>2014-02-02 13:50:45.098</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>812</RR>
+    <Coherence>0</Coherence>
+    <TAG />
+  </Sample>
+  <Sample>
+    <Login>0</Login>
+    <Timestamp>2014-02-02 13:50:46.115</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>815</RR>
+    <Coherence>0</Coherence>
+    <TAG />
+  </Sample>
+  <Sample>
+    <Login>0</Login>
+    <Timestamp>2014-02-02 13:50:47.124</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>812</RR>
+    <Coherence>0.01795759</Coherence>
+    <TAG />
+  </Sample>
+</Samples>

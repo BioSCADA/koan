@@ -1,0 +1,39 @@
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.Core\bin\Debug\Selen.Wpf.Core.dll
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.Core\bin\Debug\Selen.Wpf.Core.pdb
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.csprojResolveAssemblyReference.cache
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.Core\obj\Debug\Resources.baml
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core_MarkupCompile.cache
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.g.resources
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.Properties.Resources.resources
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.csproj.GenerateResource.Cache
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.dll
+C:\Users\schmaedech\Desktop\source\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.pdb
+I:\visualstudio\BioSCADA\Selen.Wpf.Core\bin\Debug\Selen.Wpf.Core.dll
+I:\visualstudio\BioSCADA\Selen.Wpf.Core\bin\Debug\Selen.Wpf.Core.pdb
+I:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Debug\Resources.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core_MarkupCompile.cache
+I:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.g.resources
+I:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.Properties.Resources.resources
+I:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.csproj.GenerateResource.Cache
+I:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.dll
+I:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.pdb
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.Core\bin\Debug\Selen.Wpf.Core.dll
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.Core\bin\Debug\Selen.Wpf.Core.pdb
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.Core\obj\Debug\Resources.baml
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core_MarkupCompile.cache
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.g.resources
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.Properties.Resources.resources
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.csproj.GenerateResource.Cache
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.dll
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.pdb
+C:\Users\Raquel\Documents\Visual Studio 2013\Projects\Koan\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.csprojResolveAssemblyReference.cache
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\bin\Debug\Selen.Wpf.Core.dll
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\bin\Debug\Selen.Wpf.Core.pdb
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.csprojResolveAssemblyReference.cache
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Debug\Resources.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core_MarkupCompile.cache
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.g.resources
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.Properties.Resources.resources
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.csproj.GenerateResource.Cache
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.dll
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Debug\Selen.Wpf.Core.pdb

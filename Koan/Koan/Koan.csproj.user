@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\PREDATOR\Github\bioscada\Server\Netbeans\bioscada.me\bsweb\pages\koan\|F:\BioSCADA\Server\Netbeans\bioscada.me\bsweb\pages\koan\|F:\BioSCADA\Koan\|https://bioscada.me/bsweb/koan/|E:\BioSCADA\Server\Netbeans\bioscada.me\bsweb\koan\</PublishUrlHistory>
+    <InstallUrlHistory>https://bioscada.me/bsweb/pages/koan/|https://bioscada.me/bsweb/koan/|http://server.bioscada.com.br/koan/</InstallUrlHistory>
+    <SupportUrlHistory>https://bioscada.me|http://bioscada.me|http://bioscada.com.br</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>https://bioscada.me|http://bioscada.me</ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

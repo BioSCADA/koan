@@ -1,0 +1,40 @@
+I:\visualstudio\BioSCADA\Selen.Wpf.Core\bin\Release\Selen.Wpf.Core.dll
+I:\visualstudio\BioSCADA\Selen.Wpf.Core\bin\Release\Selen.Wpf.Core.pdb
+I:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.csprojResolveAssemblyReference.cache
+I:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Release\Resources.baml
+I:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core_MarkupCompile.cache
+I:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.g.resources
+I:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.Properties.Resources.resources
+I:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.csproj.GenerateResource.Cache
+I:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.dll
+I:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.pdb
+E:\visualstudio\BioSCADA\Selen.Wpf.Core\bin\Release\Selen.Wpf.Core.dll
+E:\visualstudio\BioSCADA\Selen.Wpf.Core\bin\Release\Selen.Wpf.Core.pdb
+E:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Release\Resources.baml
+E:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core_MarkupCompile.cache
+E:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.g.resources
+E:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.Properties.Resources.resources
+E:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.csproj.GenerateResource.Cache
+E:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.dll
+E:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.pdb
+E:\visualstudio\BioSCADA\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.csprojResolveAssemblyReference.cache
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.Core\bin\Release\Selen.Wpf.Core.dll
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.Core\bin\Release\Selen.Wpf.Core.pdb
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.Core\obj\Release\Resources.baml
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core_MarkupCompile.cache
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.g.resources
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.Properties.Resources.resources
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.csproj.GenerateResource.Cache
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.dll
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.pdb
+E:\visualstudio\BioSCADA Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.csprojResolveAssemblyReference.cache
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\bin\Release\Selen.Wpf.Core.dll
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\bin\Release\Selen.Wpf.Core.pdb
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Release\Resources.baml
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core_MarkupCompile.cache
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.g.resources
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.Properties.Resources.resources
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.csproj.GenerateResource.Cache
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.dll
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.pdb
+F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.csprojResolveAssemblyReference.cache

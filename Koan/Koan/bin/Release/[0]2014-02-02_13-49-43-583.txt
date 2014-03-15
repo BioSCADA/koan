@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Samples>
+  <Sample>
+    <Login>0</Login>
+    <Timestamp>2014-02-02 13:49:44.499</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>800</RR>
+    <Coherence>0</Coherence>
+    <TAG />
+  </Sample>
+  <Sample>
+    <Login>0</Login>
+    <Timestamp>2014-02-02 13:49:45.513</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>807</RR>
+    <Coherence>0</Coherence>
+    <TAG />
+  </Sample>
+  <Sample>
+    <Login>0</Login>
+    <Timestamp>2014-02-02 13:49:46.685</Timestamp>
+    <Batery>0</Batery>
+    <BPM>0</BPM>
+    <RR>812</RR>
+    <Coherence>0</Coherence>
+    <TAG />
+  </Sample>
+</Samples>
