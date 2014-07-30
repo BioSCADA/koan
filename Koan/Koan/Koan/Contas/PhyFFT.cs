@@ -1,7 +1,4 @@
-﻿using BioSCADA;
-using Koan.Blueteeth;
-using MathLibrary;
-/*M///////////////////////////////////////////////////////////////////////////////////////
+﻿/*M///////////////////////////////////////////////////////////////////////////////////////
 //
 //  IMPORTANT: READ BEFORE DOWNLOADING, COPYING, INSTALLING OR USING.
 //
@@ -10,14 +7,14 @@ using MathLibrary;
 //  copy or use the software.
 //
 //
-//                           License Agreement
-//                For Open Source Heart Rate SCADA Library  
+//                           BioSCADA® License Agreement
+//                For Open Source Human SCADA Library  
 //
-// Copyright (C) 2011-2012, Diego Schmaedech, all rights reserved. 
+// Copyright (C) 2011-2014, Diego Schmaedech for this and Many Others Developers around the worlds for all, all rights reserved. 
 //
-							For Open Source Biosignal SCADA
+//							For Open Source Human SCADA aplications
 //
-// Copyright (C) 2012, Laboratório de Educação Cerebral, all rights reserved.
+// Copyright (C) 2011-2014, Prof. Dr. Emílio Takase, Laboratório de Educação Cerebral, all rights reserved.
 //
 // Third party copyrights are property of their respective owners.
 // Third party copyrights are property of their respective owners.
@@ -47,6 +44,9 @@ using MathLibrary;
 // the use of this software, even if advised of the possibility of such damage.
 //
 //M*/
+using BioSCADA;
+using Koan.Blueteeth;
+using MathLibrary; 
 using System;
 using System.Collections.Generic;
 using System.Linq;

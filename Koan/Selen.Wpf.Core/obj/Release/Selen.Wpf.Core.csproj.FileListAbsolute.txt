@@ -38,3 +38,13 @@ F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.csp
 F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.dll
 F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.pdb
 F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\GitHub\koan\Koan\Selen.Wpf.Core\bin\Release\Selen.Wpf.Core.dll
+C:\Users\Diego\Documents\GitHub\koan\Koan\Selen.Wpf.Core\bin\Release\Selen.Wpf.Core.pdb
+C:\Users\Diego\Documents\GitHub\koan\Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\GitHub\koan\Koan\Selen.Wpf.Core\obj\Release\Resources.baml
+C:\Users\Diego\Documents\GitHub\koan\Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core_MarkupCompile.cache
+C:\Users\Diego\Documents\GitHub\koan\Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.g.resources
+C:\Users\Diego\Documents\GitHub\koan\Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.Properties.Resources.resources
+C:\Users\Diego\Documents\GitHub\koan\Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.csproj.GenerateResource.Cache
+C:\Users\Diego\Documents\GitHub\koan\Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.dll
+C:\Users\Diego\Documents\GitHub\koan\Koan\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.pdb

@@ -4,7 +4,7 @@
 library
 C#
 .cs
-F:\BioSCADA\Koan\VisualStudio\Koan\Selen.Wpf.SystemStyles\obj\Release\
+C:\Users\Diego\Documents\GitHub\koan\Koan\Selen.Wpf.SystemStyles\obj\Release\
 Selen.Wpf.SystemStyles
 none
 false
@@ -13,7 +13,7 @@ TRACE
 12646347323
 
 7-1552048456
-15709320391
+15-811668583
 ButtonStyles.xaml;ComboBoxStyles.xaml;PasswordBoxStyles.xaml;DataGridStyles.xaml;GroupBoxStyles.xaml;ListBoxStyles.xaml;MenuStyles.xaml;ScrollBarStyles.xaml;Styles.xaml;TabControlStyles.xaml;TextBoxStyles.xaml;WindowStyles.xaml;
 
 False
