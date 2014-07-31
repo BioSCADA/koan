@@ -1,6 +1,6 @@
 #Koan
 
-Windows datalogger to <a href="http://www.polar.com/en/products/accessories/Polar_WearLink_transmitter_with_Bluetooth"> Polar </a>and <a href="http://zephyranywhere.com/products/hxm-bluetooth-heart-rate-monitor/"> Zephyr </a> HXM Bluetooth® heart rate monitors.
+Windows datalogger to <a href="http://www.polar.com/en/products/accessories/Polar_WearLink_transmitter_with_Bluetooth"> Polar </a>and <a href="http://zephyranywhere.com/products/hxm-bluetooth-heart-rate-monitor/"> Zephyr </a> HXM Bluetooth heart rate monitors.
 
 Third party copyrights are property of their respective owners.
 
